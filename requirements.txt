@@ -1,0 +1,7 @@
+apify-client==1.8.1
+google-genai==0.3.0
+neo4j==5.20.0
+python-dotenv==1.0.1
+
+playwright
+PyPDF2
